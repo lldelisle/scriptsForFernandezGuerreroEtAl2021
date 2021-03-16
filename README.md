@@ -13,3 +13,5 @@ The input folder contains the input tables.
 The output folder contains intermediate results or tables.
 
 The figure folder contains the images.
+
+The additional_files folder contains tables as excel files.
