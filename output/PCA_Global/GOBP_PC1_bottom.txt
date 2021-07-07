@@ -1,0 +1,21 @@
+term	over_represented_pvalue
+Morphogenesis of an epithelium	0
+Epidermis development	0
+Animal organ morphogenesis	0
+Odontogenesis of dentin-containing tooth	0
+Odontogenesis	0
+Skin development	0
+Animal organ development	0
+Tissue morphogenesis	0
+Epithelium development	2.71128980448549e-15
+Tissue development	1.08328750875853e-12
+Morphogenesis of a branching structure	7.64639471382074e-12
+Anatomical structure morphogenesis	7.78622965106014e-11
+Multicellular organism development	2.89699586631391e-10
+Epithelial cell differentiation	2.97416954857945e-10
+Morphogenesis of a branching epithelium	3.45811284779622e-10
+Anatomical structure development	7.34599793996155e-10
+Tube development	2.21919033436707e-09
+System development	4.32502307501988e-09
+Developmental process	6.43098164858390e-09
+Regulation of cell population proliferation	9.86718819688445e-09

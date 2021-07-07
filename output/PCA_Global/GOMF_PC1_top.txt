@@ -1,0 +1,21 @@
+term	over_represented_pvalue
+Oxygen carrier activity	0
+Haptoglobin binding	0
+Hemoglobin binding	7.95642341464894e-12
+Oxygen binding	1.71941135113953e-11
+Hemoglobin alpha binding	1.54433252136008e-10
+DNA-binding transcription activator activity, RNA polymerase II-specific	1.6107083295108e-09
+DNA-binding transcription activator activity	1.80707035499444e-09
+Peroxidase activity	2.50736903792821e-09
+Oxidoreductase activity, acting on peroxide as acceptor	4.00780311083557e-09
+Molecular carrier activity	6.66388985485428e-09
+Antioxidant activity	3.96385992929211e-08
+DNA-binding transcription factor activity, RNA polymerase II-specific	1.55006221539564e-07
+Protein binding	1.87455295882538e-07
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	3.11880396741017e-07
+DNA-binding transcription factor activity	3.18861626973306e-07
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	3.48825268941194e-07
+Cis-regulatory region sequence-specific DNA binding	3.89823547448088e-07
+Organic acid binding	5.09008281836473e-07
+Transcription regulatory region sequence-specific DNA binding	8.34903314160687e-07
+Regulatory region nucleic acid binding	8.64961602847152e-07

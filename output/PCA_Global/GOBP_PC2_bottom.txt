@@ -1,0 +1,21 @@
+term	over_represented_pvalue
+Skeletal system development	0
+Regionalization	0
+Pattern specification process	0
+Animal organ morphogenesis	0
+Anterior/posterior pattern specification	0
+Skeletal system morphogenesis	0
+Embryonic skeletal system development	0
+Embryo development	4.23020229416906e-13
+Regulation of transcription by RNA polymerase II	1.92164068846927e-10
+Embryonic skeletal system morphogenesis	2.38463032126735e-10
+Transcription by RNA polymerase II	3.36949812209947e-10
+Multicellular organism development	5.64995483922225e-10
+Chordate embryonic development	7.91742665730932e-10
+System development	9.72103616221093e-10
+Embryo development ending in birth or egg hatching	1.03983040175606e-09
+Anatomical structure development	7.45683870101428e-09
+Anatomical structure morphogenesis	7.63519577774615e-09
+Regulation of nucleobase-containing compound metabolic process	8.44687399079589e-09
+Regulation of RNA metabolic process	1.08080342480104e-08
+Animal organ development	2.04476936368405e-08

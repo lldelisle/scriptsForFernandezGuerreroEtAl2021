@@ -1,0 +1,21 @@
+term	over_represented_pvalue
+Structural molecule activity	6.41406330319373e-08
+Cell adhesion molecule binding	1.01924337910591e-06
+Protein binding	2.15851330237541e-06
+Frizzled binding	0.000223435632056278
+Binding	0.000443976111194682
+Receptor ligand activity	0.000714082198765627
+Signaling receptor activator activity	0.000760603360653782
+Scaffold protein binding	0.000951742954730086
+Receptor regulator activity	0.00116067579747184
+Protein kinase C inhibitor activity	0.00169384915535364
+Diacylglyceride transfer activity	0.00191618956815312
+Sphingomyelin transfer activity	0.00191618956815312
+Phosphatidylglycerol transfer activity	0.00191618956815312
+Cerebroside transfer activity	0.00191618956815312
+Chemoattractant activity	0.00253721930174098
+Laminin binding	0.00325735283117474
+Fibronectin binding	0.00333247220538244
+Laminin receptor activity	0.0043917196433838
+Glycolipid transfer activity	0.00511008744215808
+Chemoattractant activity involved in axon guidance	0.00525656711987569

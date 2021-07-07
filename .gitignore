@@ -1,0 +1,12 @@
+# Large input files
+input/GSE*
+input/mergeGenes*
+input_pgt/GSE*
+
+# From RStudio
+*.Rproj*
+.Rproj.user
+
+# Other
+.Rhistory
+Rplots.pdf

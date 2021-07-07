@@ -1,0 +1,21 @@
+term	over_represented_pvalue
+Sequence-specific double-stranded DNA binding	1.15354788650815e-08
+Double-stranded DNA binding	2.5514612128419e-08
+Sequence-specific DNA binding	3.12706222165436e-08
+RNA polymerase II cis-regulatory region sequence-specific DNA binding	8.97756549313949e-08
+Cis-regulatory region sequence-specific DNA binding	1.10635880849096e-07
+Transcription regulatory region sequence-specific DNA binding	2.99083210492778e-07
+Regulatory region nucleic acid binding	3.12671819298391e-07
+DNA-binding transcription factor activity, RNA polymerase II-specific	3.33133855501621e-07
+DNA-binding transcription activator activity, RNA polymerase II-specific	4.46442830246779e-07
+DNA-binding transcription activator activity	4.93045794833223e-07
+DNA-binding transcription factor activity	6.91983293939986e-07
+RNA polymerase II transcription regulatory region sequence-specific DNA binding	7.08095404449922e-07
+DNA binding	1.47939032775817e-06
+Double-stranded DNA helicase activity	1.97578041938489e-05
+Transcription regulator activity	2.15325902871938e-05
+Phospholipase A2 inhibitor activity	3.79883426255797e-05
+Phospholipase inhibitor activity	0.000103275912148766
+Nucleic acid binding	0.000266061471233995
+Lipase inhibitor activity	0.000267813538190917
+Protein binding	0.00112847984510321

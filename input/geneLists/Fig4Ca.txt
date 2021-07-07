@@ -1,9 +1,0 @@
-Msx1
-Msx2
-Nfib
-Six1
-Six2
-Smad9
-Sox5
-Sox6
-Sox9

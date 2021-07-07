@@ -15,3 +15,5 @@ The output folder contains intermediate results or tables.
 The figure folder contains the images.
 
 The additional_files folder contains tables as excel files.
+
+To make the coverage plots in figure 2. We used [pyGenomeTracks](https://pygenometracks.readthedocs.io). The `pgt.sh` show you all the commands needed to reproduce the coverage plot. The inputs are in `pgt_input` and the outputs in `output_pgt`.
